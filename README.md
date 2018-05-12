@@ -13,20 +13,25 @@ Datasets
 Order of running the Notebooks
 
 ---> Prep
-	-100_Movie_Details_Prep
-	-200_Youtube_Prep
-	-300_Oscar_Prep
-	-400_Movie_Industry_Prep
-	-500_Oscar_merge_Prep
+
+	-100_Movie_Details_Prep,
+	-200_Youtube_Prep,
+	-300_Oscar_Prep,
+	-400_Movie_Industry_Prep,
+	-500_Oscar_merge_Prep,
 	-600_Youtube_merge_Prep
+	
 
 ---> Analysis
-	-100_Movie_Details_Analysis
-	-200_Youtube_Analysis
-	-300_Movie_Industry_without_harmonic_mean_Analysis
+
+	-100_Movie_Details_Analysis,
+	-200_Youtube_Analysis,
+	-300_Movie_Industry_without_harmonic_mean_Analysis,
 	-400_Oscar_Analysis
 	
+	
 ---> Results
-	-100_Genre_Results
-	-200_Youtube_Results
+
+	-100_Genre_Results,
+	-200_Youtube_Results,
 	-300_Oscar_Results
